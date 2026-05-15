@@ -1,0 +1,40 @@
+21:19:50.536 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' TEST PASSED '  
+21:19:50.542 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Finished  TC001_AccountRegistrationTest  *****  
+23:13:36.718 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+23:13:36.801 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+23:13:37.020 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+23:13:37.021 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+23:13:42.282 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+23:13:42.310 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' TEST PASSED '  
+23:13:42.311 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Finished  TC001_AccountRegistrationTest  *****  
+18:51:29.013 [main] INFO  org.testCasesPackage.TC_002_LoginTest - ******** strted   TC_002_LoginTest testcase ******* 
+18:53:24.576 [main] INFO  org.testCasesPackage.TC_002_LoginTest - ******** strted   TC_002_LoginTest testcase ******* 
+18:53:28.828 [main] INFO  org.testCasesPackage.TC_002_LoginTest -  test case - verify login passed 
+19:07:13.658 [main] INFO  org.testCasesPackage.TC_002_LoginTest - ******** strted   TC_002_LoginTest testcase ******* 
+19:11:24.080 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+19:11:24.166 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+19:11:24.403 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+19:11:24.403 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+19:11:28.645 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+19:11:28.674 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' TEST PASSED '  
+19:11:28.674 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Finished  TC001_AccountRegistrationTest  *****  
+19:11:30.493 [main] INFO  org.testCasesPackage.TC_002_LoginTest - ******** strted   TC_002_LoginTest testcase ******* 
+19:11:31.680 [main] INFO  org.testCasesPackage.TC_002_LoginTest -  test case - verify login passed 
+22:53:28.934 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:53:28.937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:53:28.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+22:53:28.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+22:53:28.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:53:29.088 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+22:54:23.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:54:23.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:54:23.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+22:54:23.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+22:54:23.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:54:23.497 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+23:54:04.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:54:04.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:54:04.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:54:04.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+23:54:04.217 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:54:04.413 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person

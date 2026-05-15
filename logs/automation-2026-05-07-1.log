@@ -1,0 +1,43 @@
+19:21:26.147 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+19:21:26.214 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+19:21:26.453 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+19:21:26.454 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+19:21:32.082 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+19:21:32.107 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Finished  TC001_AccountRegistrationTest  *****  
+19:43:08.272 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+19:43:08.344 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+19:43:08.661 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+19:43:08.663 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+19:43:13.934 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+19:43:13.965 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Finished  TC001_AccountRegistrationTest  *****  
+20:05:28.833 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+20:05:29.259 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+20:05:29.503 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+20:05:29.504 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+20:05:32.851 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+20:08:55.769 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+20:08:55.859 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+20:08:56.140 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+20:08:56.141 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+20:09:02.226 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+20:09:02.257 [main] ERROR org.testCasesPackage.TC001_AccountRegistrationTest - test failed
+20:09:02.257 [main] DEBUG org.testCasesPackage.TC001_AccountRegistrationTest - debug logs
+20:10:45.091 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+20:10:45.266 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+20:10:45.633 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+20:10:45.634 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+20:10:51.511 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+20:10:51.537 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' TEST PASSED '  
+20:10:51.537 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Finished  TC001_AccountRegistrationTest  *****  
+21:10:44.979 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+21:10:45.071 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+21:10:45.346 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+21:10:45.347 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+21:10:49.938 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
+21:10:49.961 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' TEST PASSED '  
+21:10:49.961 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Finished  TC001_AccountRegistrationTest  *****  
+21:19:45.751 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ***** Started  TC001_AccountRegistrationTest  *****  
+21:19:45.879 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -     ' clicked on  'My account' ' 
+21:19:46.132 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' clicked on 'Register' '  
+21:19:46.133 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   Providing all customer details 
+21:19:50.508 [main] INFO  org.testCasesPackage.TC001_AccountRegistrationTest -   ' validating expected message '  
